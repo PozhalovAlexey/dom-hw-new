@@ -45,6 +45,7 @@
   "dependencies": {
     "@babel/preset-env": "^7.23.7",
     "core-js": "^3.35.0",
-    "schema-utils": "^4.2.0"
+    "schema-utils": "^4.2.0",
+    "source-map-url": "^0.4.1"
   }
 }
